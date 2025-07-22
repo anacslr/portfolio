@@ -1,24 +1,23 @@
-
 .avatar {
-    height: 5em;
+  height: 5em;
 }
 nav ul {
-    display: flex;
-    gap: 5em;  
-    flex-wrap: nowrap;
+  display: flex;
+  gap: 5em;
+  flex-wrap: nowrap;
 }
 
 nav a {
-    color: white;
-    text-decoration: none;
+  color: white;
+  text-decoration: none;
 }
 
 @media screen and (max-width: 768px) {
-    .avatar {
+  .avatar {
     height: 3em;
+  }
 }
-}
-    
+
 .navbar {
   display: flex;
   align-items: center;

@@ -1,11 +1,11 @@
 ul {
-    display: flex;
-    align-items: start;
-    justify-content:center;
+  display: flex;
+  align-items: start;
+  justify-content: center;
 }
 
 @media screen and (max-width: 768px) {
-    ul {flex-direction: column;
-    }
+  ul {
+    flex-direction: column;
+  }
 }
-

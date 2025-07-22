@@ -1,23 +1,23 @@
 [
-        {   "title": "Dev Quiz",
-            "description" : "Premier projet de groupe réalisé dans le cadre de ma formation à la Wild Code School. Un site responsive de quiz sur le développement web réalisé en HTML, CSS et Javascript. 10 questions à choix multiples sur le développement web, score affiché à la fin du quiz, possibilité de recommencer, interface responsive (mobile, tablette, desktop)",
-            "video" :"/videos/demoDevQuiz.mov",
-            "link":"https://dev-quiz-sigma.vercel.app/",
-            "github": "https://github.com/anacslr/Dev-Quiz"
-
-        },
-         {  "title" : "Astralis",
-            "description" : "Ce projet, réalisé dans le cadre du deuxieme projet de ma formation à la Wild Code School, est une invitation à explorer l’espace de manière ludique et interactive. Cette webapp a été conçue pour éveiller la curiosité des petits comme des grands en leur faisant découvrir notre fascinant système solaire. Grâce à une API dédiée à l’astronomie, les données sont constamment mises à jour pour offrir une expérience dynamique, enrichie de faits étonnants et de visuels captivants.",
-            "video" :"/videos/demoAstralis.avi",
-            "link":"",
-            "github": "https://github.com/wildcodeschool-2025-03/JS-RemoteFR-Vert-ASquad-404-Team-not-found-P2"
-
-        },
-         {  "title" : "Algolinguo",
-            "description" : "Projet de groupe réalisé dans le cadre d'un hackaton de 2 jours durant ma formation à la Wild Code School. Une application ludique et interactive inspirée de Duolingo, pour apprendre le développement web pas à pas. Que tu sois débutant ou curieux, progresse à ton rythme grâce à des leçons courtes, des exercices pratiques",
-            "video" :"/videos/demoAlgoLinguo.mov",
-            "link":"https://algo-linguo.vercel.app/",
-            "github": "https://github.com/AhmedFikado/AlgoLinguo"
-
-        }
-    ]
+  {
+    "title": "Dev Quiz",
+    "description": "Premier projet de groupe réalisé dans le cadre de ma formation à la Wild Code School. Un site responsive de quiz sur le développement web réalisé en HTML, CSS et Javascript. 10 questions à choix multiples sur le développement web, score affiché à la fin du quiz, possibilité de recommencer, interface responsive (mobile, tablette, desktop)",
+    "video": "/videos/demoDevQuiz.mov",
+    "link": "https://dev-quiz-sigma.vercel.app/",
+    "github": "https://github.com/anacslr/Dev-Quiz"
+  },
+  {
+    "title": "Astralis",
+    "description": "Ce projet, réalisé dans le cadre du deuxieme projet de ma formation à la Wild Code School, est une invitation à explorer l’espace de manière ludique et interactive. Cette webapp a été conçue pour éveiller la curiosité des petits comme des grands en leur faisant découvrir notre fascinant système solaire. Grâce à une API dédiée à l’astronomie, les données sont constamment mises à jour pour offrir une expérience dynamique, enrichie de faits étonnants et de visuels captivants.",
+    "video": "/videos/demoAstralis.avi",
+    "link": "",
+    "github": "https://github.com/wildcodeschool-2025-03/JS-RemoteFR-Vert-ASquad-404-Team-not-found-P2"
+  },
+  {
+    "title": "Algolinguo",
+    "description": "Projet de groupe réalisé dans le cadre d'un hackaton de 2 jours durant ma formation à la Wild Code School. Une application ludique et interactive inspirée de Duolingo, pour apprendre le développement web pas à pas. Que tu sois débutant ou curieux, progresse à ton rythme grâce à des leçons courtes, des exercices pratiques",
+    "video": "/videos/demoAlgoLinguo.mov",
+    "link": "https://algo-linguo.vercel.app/",
+    "github": "https://github.com/AhmedFikado/AlgoLinguo"
+  }
+]

@@ -1,22 +1,22 @@
 .project-item {
-    width: 25vw;
-    height: auto;
+  width: 25vw;
+  height: auto;
 }
 
 video {
-    width: 20vw;
-    height: 20vw;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-
+  width: 20vw;
+  height: 20vw;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 @media screen and (max-width: 768px) {
-.project-item {width: 80%;
-}
+  .project-item {
+    width: 80%;
+  }
 
-video {
+  video {
     width: 80%;
     min-height: 50vw;
-}
+  }
 }
