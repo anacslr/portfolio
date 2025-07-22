@@ -34,6 +34,8 @@ nav a {
   justify-content: center;
   align-items: center;
   z-index: 10;
+  background-color: #242424;
+  border: none;
 }
 
 .burger span {
@@ -72,7 +74,6 @@ nav a {
     gap: 1.5rem;
     width: 60vw;
     padding: 2rem;
-    box-shadow: 0 2px 8px rgba(255, 255, 255, 0.502);
     display: none;
     align-items: flex-end;
   }
