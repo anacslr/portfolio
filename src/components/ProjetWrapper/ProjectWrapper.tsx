@@ -1,4 +1,4 @@
-import "./projectWrapper.css"
+import "./ProjectWrapper.css"
 
 import data from "../../data/infoProjets.json"
 import ProjectItem from "../ProjectItem/ProjectItem";
